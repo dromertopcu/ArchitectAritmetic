@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/SupernaturalInheritance.csproj",
+                "${workspaceFolder}/ArchitectAritmetic.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/SupernaturalInheritance.csproj",
+                "${workspaceFolder}/ArchitectAritmetic.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/SupernaturalInheritance.csproj"
+                "${workspaceFolder}/ArchitectAritmetic.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
